@@ -3,7 +3,7 @@ normal = { family = "LiberationMono", style = "Regular" }
 bold = { family = "LiberationMono", style = "Regular" } 
 italic = { family = "LiberationMono", style = "Italic" } 
 bold_italic = { family = "LiberationMono", style = "Italic" } 
-size = 10
+size = 16
 
 # Colors (Everforest Dark)
 

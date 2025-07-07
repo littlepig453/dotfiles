@@ -18,3 +18,7 @@ sudo cp -r etc/. -t /etc/
 
 # for local binaries to reside "/usr/local/bin"
 sudo cp -r usr/local/bin/. -t /usr/local/bin/
+
+echo "Make sure to import the KDE configuration files located here:"
+echo "~/.config/kde-shortcuts.kksrc"
+echo "~/.config/kde-window-rules.kwinrule"

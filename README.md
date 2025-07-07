@@ -2,7 +2,7 @@
 Repo containing my dotfiles
 ## Programs
 - Distro: [Arch Linux](https://archlinux.org/)
-- WM: [i3](https://i3wm.org/)
+- DE: [KDE Plasma](https://wiki.archlinux.org/title/KDE)
 - Terminal: [Alacritty](https://wiki.archlinux.org/title/Alacritty)
 - Text editor: [Vim](https://wiki.archlinux.org/title/Vim)
 - Web browser: [Librewolf](https://librewolf.net/)
@@ -11,6 +11,5 @@ Repo containing my dotfiles
 - Fetch: [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - Music: [ncspot](https://github.com/hrkfdn/ncspot)
 - Connection manager: [NetworkManager](https://wiki.archlinux.org/title/NetworkManager)
-- Theming: [lxappearance](https://github.com/lxde/lxappearance/)
 
 **See the `programs.txt` file for the output of `pacman -Q | cut -f 1 -d " "`, i.e. my applications installed!**

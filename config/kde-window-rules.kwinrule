@@ -1,0 +1,33 @@
+[Application settings for Alacritty]
+Description=Application settings for Alacritty
+clientmachine=localhost
+size=1920,1030
+sizerule=3
+wmclass=Alacritty
+wmclassmatch=1
+
+[Application settings for Zathura]
+Description=Application settings for Zathura
+clientmachine=localhost
+size=1920,1030
+sizerule=3
+wmclass=org.pwmt.zathura Zathura
+wmclasscomplete=true
+wmclassmatch=1
+
+[Application settings for librewolf]
+Description=Application settings for librewolf
+clientmachine=localhost
+size=1920,1030
+sizerule=3
+wmclass=librewolf
+wmclassmatch=1
+
+[Application settings for mpv]
+Description=Application settings for mpv
+clientmachine=localhost
+size=1920,1030
+sizerule=3
+wmclass=mpvk mpv
+wmclasscomplete=true
+wmclassmatch=1
